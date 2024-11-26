@@ -13,7 +13,8 @@ public class MaximumFinder {
       double number1 = input.nextDouble(); // read first double
       double number2 = input.nextDouble(); // read second double
       double number3 = input.nextDouble(); // read third double
-
+      double number4 = input.nextDouble(); // read third double
+      double number5 = input.nextDouble(); // read third double
       // determine the maximum value
       double result = maximum(number1, number2, number3); 
 
